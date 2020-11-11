@@ -1,4 +1,4 @@
-package com.max.design_patterns.singelton;
+package com.max.design_patterns.singleton;
 
 public class SomeCar {
     public static void main(String[] args) {

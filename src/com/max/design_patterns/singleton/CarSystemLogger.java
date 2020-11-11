@@ -1,4 +1,4 @@
-package com.max.design_patterns.singelton;
+package com.max.design_patterns.singleton;
 
 public class CarSystemLogger {
     private static CarSystemLogger carSystemLogger;
