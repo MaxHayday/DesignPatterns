@@ -1,4 +1,4 @@
-package com.max.design_patterns.structural_patterns.Composite;
+package com.max.design_patterns.structural_patterns.composite;
 
 import java.util.ArrayList;
 import java.util.List;
